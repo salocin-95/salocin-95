@@ -1,5 +1,6 @@
 ### Hi, I'm Rodrigo! 
-I'm a student currently working my way through [The Odin Project](https://www.theodinproject.com/dashboard)</br>
+I'm a student currently working my way through [The Odin Project](https://www.theodinproject.com).[Check my profile!](https://www.theodinproject.com/dashboard)<br>
+I'm also doing the curriculum at [freeCodeCamp](https://www.freecodecamp.org/).[Check my profile!](https://www.freecodecamp.org/rodrigo-nicolas)
 
 ## Tech  Stack
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
