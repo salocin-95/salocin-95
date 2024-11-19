@@ -1,6 +1,11 @@
 ### Hi, I'm Rodrigo! 
-I'm a student currently working my way through [The Odin Project](https://www.theodinproject.com).[Check my profile!](https://www.theodinproject.com/dashboard)<br>
-I'm also doing the curriculum at [freeCodeCamp](https://www.freecodecamp.org/).[Check my profile!](https://www.freecodecamp.org/rodrigo-nicolas)
+I'm a student currently working my way through [The Odin Project](https://www.theodinproject.com). [Check my profile!](https://www.theodinproject.com/dashboard)<br>
+
+-----
+
+I'm also doing the curriculum at [freeCodeCamp](https://www.freecodecamp.org/). [Check my profile!](https://www.freecodecamp.org/rodrigo-nicolas)
+
+-----
 
 ## Tech  Stack
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
@@ -13,8 +18,12 @@ I'm also doing the curriculum at [freeCodeCamp](https://www.freecodecamp.org/).[
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
 
+-----
+
 ## GitHub Stats
 [![Rodrigo's GitHub stats](https://github-readme-stats.vercel.app/api?username=salocin-95&show_icons=true&theme=dark)](https://github.com/salocin-95/github-readme-stats) 
+
+-----
 
 ## Top Languages
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=salocin-95&show_icons=true&theme=dark&layout=compact)](https://github.com/salocin-95/github-readme-stats)
