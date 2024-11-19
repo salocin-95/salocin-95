@@ -1,4 +1,6 @@
-## Hi there 👋
+### Hi, I'm Rodrigo! 
+
+[![Rodrigo's GitHub stats](https://github-readme-stats.vercel.app/api?username=salocin-95)](https://github.com/salocin-95/github-readme-stats)
 
 <!--
 **salocin-95/salocin-95** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
